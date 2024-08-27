@@ -213,7 +213,7 @@ The clock must be accurate, synchronized to a NTP server very frequently to avoi
 
 To run this bot we recommend you a cloud instance with a minimum of:
 
-- Minimal (advised) system requirements: 2GB RAM, 1GB disk space, 2vCPU
+- Minimal (advised) system requirements: 2GB RAM, 1GB disk space, 2vCP
 
 ### Software requirements
 
